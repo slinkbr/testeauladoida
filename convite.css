@@ -1,0 +1,28 @@
+*{
+    background-color: #e8ecec;
+    padding: 0px;
+    margin: 0px;
+}
+
+img{
+    border-radius: 10px;
+}
+
+table{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    margin: auto;
+    max-width: 800px;
+}
+
+.info-content{
+    text-align: justify;
+    padding: 25px;
+}
+
+.tel-icon{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
